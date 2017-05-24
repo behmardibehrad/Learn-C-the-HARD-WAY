@@ -1,1 +1,0 @@
-cc -Wall -g ComplierCheck.c -o ComplierCheck
